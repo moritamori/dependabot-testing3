@@ -1,0 +1,22 @@
+{
+  "name": "dependabot-testing",
+  "version": "1.0.0",
+  "description": "[![codecov](https://codecov.io/gh/moritamori/dependabot-testing/branch/master/graph/badge.svg?token=SPYD95XR1B)](https://codecov.io/gh/moritamori/dependabot-testing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moritamori/dependabot-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moritamori/dependabot-testing/issues"
+  },
+  "homepage": "https://github.com/moritamori/dependabot-testing#readme",
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
+}
